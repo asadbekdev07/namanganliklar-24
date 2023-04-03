@@ -12,5 +12,19 @@
 }
 
 header {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #F6F6F6;
+}
+
+.main-link {
+  text-decoration: none;
+  color: rgba(114, 150, 238, 1);
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
 }
