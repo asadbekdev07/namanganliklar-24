@@ -492,3 +492,9 @@ img {
 .sidebar-banner-link {
   display: flex;
 }
+
+/* FOOTER  */
+
+.site-footer {
+  background-color: #7297ef;
+}
